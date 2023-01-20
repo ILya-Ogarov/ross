@@ -1,0 +1,9 @@
+img{
+	border: 3px solid green;
+	position: absolute;
+ 	top: 350px;
+ 	left: 450px;	
+}
+.P1 {
+	color: red;
+}

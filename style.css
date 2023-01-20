@@ -1,0 +1,36 @@
+h3{
+/*	color: blue;
+	color: rgb(255, 255, 0);*/
+	color: #FF00ff;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 20pt;
+	font-family: Arial;
+	text-indent: 50px;
+	/*Свойство text-indent позволяет задать красную строку,
+	то есть отступ первой строки текста (к примеру, в абзаце).*/
+}
+ol{
+	text-indent: 50px;
+	color: #2600ff;
+	font-family: Arial;
+	width: 250px;
+	height: 60px;	
+	border: 3px solid green;
+	position: absolute;
+ 	top: 450px;
+ 	left: 300px;	
+}
+
+#ulname{
+	border: 3px solid rgb(128, 119, 0);
+	width: 200px;
+	height: 60px;	
+}
+
+#pname{
+	font-style: italic;
+	font-size: 10pt;
+	font-family: Arial;
+	background-color: #9894ad;
+}
